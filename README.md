@@ -65,11 +65,37 @@ By the end of this preliminary project, students will be able to:
 ### 📝 Standard D-H Transformation Matrix Reference
 *Students: Utilize the standard Denavit-Hartenberg transformation matrix for your calculations:*
 
-```text
+```text 
 [ cos(θi)  -sin(θi)cos(αi)   sin(θi)sin(αi)  ai*cos(θi) ]
 [ sin(θi)   cos(θi)cos(αi)  -cos(θi)sin(αi)  ai*sin(θi) ]
 [   0         sin(αi)          cos(αi)          di      ]
 [   0            0                0              1      ]
 
 Intended Learning Outcome (ILO),Description,Points
-ILO1 (SO1),Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipulators using D-H parameters and Graphical Methods.,60 pts
+ILO1 (SO1),Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipulators using D-H parameters and Graphical Methods.,60 pts}
+```
+
+---
+### 🖋️ Kinematic Diagram 
+The Kinematic Diagram drawn was solely based on the values and variables present on the program provided. It shows an unconventional composition as the base frame is negatively pointing its axes. As for the following joints, most of them are natural as they follow the D-H frame rules. 
+
+## Articulated Kinematic Diagram (With assigned frames)
+
+  IMAGE
+  
+---
+### 💻 Program Files
+
+The following program files in MATLAB and Arduino are provided by our instructor. Utilizing both programs allowed the students to explore the theoretical and practical application of ROBOTICS. 
+
+
+
+---
+### ⚖️ Theoretical and Practical Application
+
+INPUT INFO HERE
+
+---
+### 📸 Documentation
+
+INPUT PICTURES HERE
