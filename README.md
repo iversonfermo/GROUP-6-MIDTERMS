@@ -97,7 +97,6 @@ The following program files in MATLAB and Arduino are provided by our instructor
   
    * Figure 1: [CYLINDRICAL_V1_3DOF.py](https://github.com/iversonfermo/Robotics2_Mechanical_Manipulator_Simulation_MEXE-3101_Group6_Laboratory1_2026/blob/main/Python%20Program/Cylindrical_V1_3DOF.py)
 
----
 ### ⚖️ Theoretical and Practical Application
 
 INPUT INFO HERE
