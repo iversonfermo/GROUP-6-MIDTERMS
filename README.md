@@ -91,14 +91,20 @@ The Kinematic Diagram drawn was solely based on the values and variables present
 
 The following program files in MATLAB and Arduino are provided by our instructor. Utilizing both programs allowed the students to explore the theoretical and practical application of ROBOTICS. 
 
-#### MATLAB Files
+**`MATLAB FILES`**
 
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
+|MATLAB Program| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
 |ROBOTIC Figure| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.fig) |
-|MATLAB Program| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.fig) |
 
-**`PROGRAM`**
+**`ARDUINO FILES`**
+
+| TITLE/NAME | FILE LINK|
+|---------------|-------------------|
+|Arduino Program| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
+
+
 
 ### ⚖️ Theoretical and Practical Application
 
