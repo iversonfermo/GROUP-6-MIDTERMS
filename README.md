@@ -76,14 +76,14 @@ ILO1 (SO1),Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipul
 ```
 
 ---
-### 🖋️ Kinematic Diagram 
+### 🖋️ Kinematic Diagram and Parametric Table
 The Kinematic Diagram drawn was solely based on the values and variables present on the program provided. It shows an unconventional composition as the base frame is negatively pointing its axes. As for the following joints, most of them are natural as they follow the D-H frame rules. 
 
 | Figure | Parametric Table and Homogeneous Transformation Matrices |
 |---------------|-------------------|
-|**`FIGURE 2 PARAMETRIC HOMOGENOUS 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/d21ebf0d-bfe6-44c3-acd3-15e64014d27f" width="55%" height="50%">|
-|**`FIGURE 2 PARAMETRIC HOMOGENOUS 6-DOF 1ST PART`**|<p align="center"><img src="https://github.com/user-attachments/assets/617fcd8f-bc42-4de8-a902-d3d2399d06dc" width="55%" height="50%">|
-|**`FIGURE 2 PARAMETRIC HOMOGENOUS 6-DOF 2ND PART`**|<p align="center"><img src="https://github.com/user-attachments/assets/2f44105f-f72a-4d96-ab34-355712416047" width="55%" height="50%">|
+|**`FIGURE 2 PARAMETRIC HOMOGENOUS 3-DOF`**||
+|**`FIGURE 2 PARAMETRIC HOMOGENOUS 6-DOF 1ST PART`**||
+|**`FIGURE 2 PARAMETRIC HOMOGENOUS 6-DOF 2ND PART`**||
 
   PALTAN PARIN ARI BOYYSSSS
 ---
@@ -95,17 +95,16 @@ The following program files in MATLAB and Arduino are provided by our instructor
 
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
-|MATLAB Program| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
+|MATLAB Program| [ROBOT.m](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
 |ROBOTIC Figure| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.fig) |
 
 **`ARDUINO FILES`**
 
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
-|Arduino Program| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
+|Arduino Program| [ROBOT.ino](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/Arduino/ROBOT.ino) |
 
-
-
+---
 ### ⚖️ Theoretical and Practical Application
 
 INPUT INFO HERE
