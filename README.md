@@ -127,6 +127,13 @@ The following program files in MATLAB and Arduino are provided by our instructor
 |Python Program| [ROBOT.py](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/Arduino/ROBOT.ino) |
 
 ---
+## 🔌⚡ Hardware Setup
+Assemble the physical components and wire the circuitry of the Spartan Robokit.
+
+**`Circuit Configuration`**
+<img src="https://github.com/user-attachments/assets/e0df9e5b-4b00-4c77-a5a9-6516d644ee8f" width="100%">
+
+---
 ## ⚖️ Theoretical and Practical Application
 
 ### 🖥️ Comparison of Output Numerical Values
