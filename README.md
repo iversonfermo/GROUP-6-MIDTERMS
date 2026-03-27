@@ -152,11 +152,15 @@ The following program files in MATLAB and Arduino are provided by our instructor
 **`Manipulator Results`**
 | Test Case | Results |
 |-----------|---------|
-| Test Case 1 | <img src="https://github.com/user-attachments/assets/d33ce21a-70b7-4a15-be46-b1151be04b7d" width="100%"> |
+| Test Case 1 | [![Watch Video](https://img.youtube.com/vi/vnO0ObsbK4M/0.jpg)](https://www.youtube.com/watch?v=vnO0ObsbK4M) |
 | Test Case 2 | <img src="https://github.com/user-attachments/assets/515c5144-4dd0-4aa9-acaf-ff94033ffdfb" width="100%"> |
 | Test Case 3 | <img src="https://github.com/user-attachments/assets/3ba4a250-e987-4822-9a6c-241ca488e28f" width="100%"> |
 | Test Case 4 | <img src="https://github.com/user-attachments/assets/8c7f4487-3a8c-4fb8-9aeb-f2184a229927" width="100%"> |
 | Test Case 5 | <img src="https://github.com/user-attachments/assets/8799b66c-64cb-41eb-a86b-c16e0703e56e" width="100%"> |
+
+
+
+
 
 
 ---
