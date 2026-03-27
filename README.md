@@ -164,6 +164,15 @@ Assemble the physical components and wire the circuitry of the Spartan Robokit.
 | Test Case 5 | <p align="center"><a href="https://www.youtube.com/watch?v=_CkyncTATko"><img src="https://img.youtube.com/vi/_CkyncTATko/0.jpg" alt="Watch Video" width="1000"></a></p> |
 
 ---
+## 📍 Pick and Place
+Program and execute a successful **pick-and-place task** relying exclusively on the Forward Kinematics method.
+
+| Pick-and-place Execution |
+|-----------------------|
+| <p align="center"><a href="https://www.youtube.com/watch?v=Pq4bEYlt2qc"><img src="https://img.youtube.com/vi/Pq4bEYlt2qc/0.jpg" alt="Watch Video" width="1000"></a></p> |
+
+
+---
 ### 📸 Documentation
 
 INPUT PICTURES HERE
