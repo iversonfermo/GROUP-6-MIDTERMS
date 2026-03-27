@@ -135,11 +135,23 @@ The following program files in MATLAB, Arduino, and Python are provided by our i
 
 ---
 ## 🔌⚡ Hardware Setup
-Assemble the physical components and wire the circuitry of the Spartan Robokit.
+Assemble the physical components and wire the circuitry of the Spartan Robokit. Make sure that the program is uploaded to the Arduino Uno, and each pin assigned is connected to its corresponding servo motor.
 
+### 📟 Arduino Circuit Setup
+<p align="justify"> This diagram illustrates the complete wiring configuration of the Spartan Robokit. Each joint’s servo motor is connected to designated pins on the controller, ensuring proper signal routing and coordinated movement of the manipulator.
+  
 | Circuit Configuration |
 |-----------------------|
 |<p align="center"><img src="https://github.com/user-attachments/assets/e0df9e5b-4b00-4c77-a5a9-6516d644ee8f" width="100%">|
+
+### 📏 Link Lengths
+<p align="justify"> The following values were obtained by measuring each link lengths present in the Spartan Robotic Kit. Acquiring the intended values increases the accuracy and correctness of the MATLAB and Python program. This also improves the overall integrity of the simulation.
+  
+| n | Measurement in mm | Documentation |
+|-----------|---------|---------|
+| a1 | <p align="center">60mm | <p align="center"><img src="https://github.com/user-attachments/assets/896389be-df3a-483d-a1ac-a4a35dcd3376" width="55%" height="50%"> |
+| a2 | <p align="center">110mm | <p align="center"><img src="https://github.com/user-attachments/assets/d89718f1-dac2-44ad-b851-5f7eceef8ee9" width="55%" height="50%"> |
+| a3 | <p align="center">100mm | <p align="center"><img src="https://github.com/user-attachments/assets/425bedf9-fbab-4160-96d8-ea8d1cb5c79f" width="55%" height="50%"> |
 
 ---
 ## ⚖️ Theoretical and Practical Application
