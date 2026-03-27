@@ -95,7 +95,7 @@ The following program files in MATLAB and Arduino are provided by our instructor
 
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
-|MATLAB Program| [ROBOT.m](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.fig) |
+|MATLAB Program| [ROBOT.m](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
 |ROBOTIC Figure| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.fig) |
 
 **`ARDUINO FILES`**
