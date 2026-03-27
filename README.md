@@ -173,6 +173,6 @@ Program and execute a successful **pick-and-place task** relying exclusively on 
 
 
 ---
-### 📸 Documentation
+## 📝 Conclusion
 
-INPUT PICTURES HERE
+FERMO
