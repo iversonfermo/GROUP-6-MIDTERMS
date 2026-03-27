@@ -158,11 +158,6 @@ The following program files in MATLAB and Arduino are provided by our instructor
 | Test Case 4 | <p align="center"><a href="https://www.youtube.com/watch?v=NsjPUNzSOHg"><img src="https://img.youtube.com/vi/NsjPUNzSOHg/0.jpg" alt="Watch Video" width="800"></a></p> |
 | Test Case 5 | <p align="center"><a href="https://www.youtube.com/watch?v=_CkyncTATko"><img src="https://img.youtube.com/vi/_CkyncTATko/0.jpg" alt="Watch Video" width="800"></a></p> |
 
-https://www.youtube.com/watch?v=RmhTxU9ItHI
-https://www.youtube.com/watch?v=l92WfvhURJA
-https://www.youtube.com/watch?v=BeicOAHtNlM
-https://www.youtube.com/watch?v=NsjPUNzSOHg
-https://www.youtube.com/watch?v=_CkyncTATko
 ---
 ### 📸 Documentation
 
