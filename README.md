@@ -147,7 +147,7 @@ The following program files in MATLAB and Arduino are provided by our instructor
 1. With the given MATLAB and Arduino Programs, the students are required to compare it side by side with the Mechanical Manipulator.
 2. Ensure that each program are synchronized to prevent incorrect readings and position error.
 3. Once the results are validated and identical, proceed to retreat the manipulator; Return it to its initial position.
-4. Apply this process for at leaast five (5) test points.
+4. Apply this process for at least five (5) test points.
 
 **`Manipulator Results`**
 | Test Case | Results |
