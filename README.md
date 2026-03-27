@@ -103,6 +103,8 @@ Derive the Homogeneous Transformation matrices of the articulated manipulator.
 The following program files in MATLAB and Arduino are provided by our instructor. Utilizing both programs allowed the students to explore the theoretical and practical application of ROBOTICS. 
 
 **`MATLAB FILES`**
+
+<div align="center">
   
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
@@ -113,15 +115,23 @@ The following program files in MATLAB and Arduino are provided by our instructor
 
 **`ARDUINO FILES`**
 
+<div align="center">
+
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
 |Arduino Program| [ROBOT.ino](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/Arduino/ROBOT.ino) |
 
+</div>
+
 **`PYTHON FILES`**
 
+<div align="center">
+  
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
 |Python Program| [ROBOT.py](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/Python/ROBOT.py) |
+
+</div>
 
 ---
 ## 🔌⚡ Hardware Setup
