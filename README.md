@@ -100,7 +100,7 @@ Derive the Homogeneous Transformation matrices of the articulated manipulator.
 ---
 ## 💻 Program Files
 
-The following program files in MATLAB and Arduino are provided by our instructor. Utilizing both programs allowed the students to explore the theoretical and practical application of ROBOTICS. 
+The following program files in MATLAB, Arduino, and Python are provided by our instructor. Utilizing these programs allowed the students to explore the theoretical and practical application of ROBOTICS. 
 
 **`MATLAB FILES`**
 
