@@ -83,22 +83,19 @@ ILO1 (SO1),Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipul
 Draw the kinematic diagram with proper labels for the Spartan Robokit.
 |  Figure Title | Kinematic Diagram |
 |---------------|-------------------|
-|**`ARTICULATED 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/27725006-862c-4820-9bd5-d9cb1904c8e4" width="55%" height="50%">|
+|**`ARTICULATED 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/21fcdf03-8ec4-4bf6-8e43-6f03fafaf45e" width="55%" height="50%">|
 
 ### 📊 Parametric Table
 Construct the parametric table.
-
 |  Figure Title | Parametric Table |
 |---------------|-------------------|
-|**`ARTICULATED 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/27725006-862c-4820-9bd5-d9cb1904c8e4" width="55%" height="50%">|
+|**`ARTICULATED 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/0ae5d57f-39be-444e-9157-52cb4f461426" width="100%">|
 
 ### 🔢 Homogeneous Transformation Matrices
 Derive the Homogeneous Transformation matrices of the articulated manipulator.
-| n | Homogeneous Transformation Matrices |
+| Figure Title | Homogeneous Transformation Matrices |
 |---------------|-------------------|
-|**`H0_1`**|<p align="center"><img src="https://github.com/user-attachments/assets/3b77d9da-6ceb-43d8-9be3-0587b516e6b8" width="55%" height="50%">|
-|**`H1_2`**|<p align="center"><img src="https://github.com/user-attachments/assets/ceebbbf3-b8fc-4c10-a598-96b3df4bc5b7" width="55%" height="50%">|
-|**`H2_3`**|<p align="center"><img src="https://github.com/user-attachments/assets/0658e656-c5d3-40b3-9b51-169f3c94a39d" width="55%" height="50%">|
+|**`ARTICULATED 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/1888176f-96de-44c4-b013-3d3b285f3e5e" width="100%">|
 
 ---
 ## 💻 Program Files
@@ -130,8 +127,9 @@ The following program files in MATLAB and Arduino are provided by our instructor
 ## 🔌⚡ Hardware Setup
 Assemble the physical components and wire the circuitry of the Spartan Robokit.
 
-**`Circuit Configuration`**
-<img src="https://github.com/user-attachments/assets/e0df9e5b-4b00-4c77-a5a9-6516d644ee8f" width="100%">
+| Circuit Configuration |
+|-----------------------|
+|<p align="center"><img src="https://github.com/user-attachments/assets/e0df9e5b-4b00-4c77-a5a9-6516d644ee8f" width="100%">|
 
 ---
 ## ⚖️ Theoretical and Practical Application
