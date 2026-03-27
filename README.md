@@ -77,11 +77,10 @@ ILO1 (SO1),Calculate the Forward and Inverse Kinematics of 3-DOF robotic manipul
 
 ---
 ## 🖋️ Kinematic Diagram and Parametric Table
-The Kinematic Diagram drawn was solely based on the values and variables present on the program provided. It shows an unconventional composition as the base frame is negatively pointing its axes. As for the following joints, most of them are natural as they follow the D-H frame rules. 
+<p align="justify"> The Kinematic Diagram drawn was solely based on the values and variables present on the program provided. It shows an unconventional composition as the base frame is negatively pointing its axes. As for the following joints, most of them are natural as they follow the D-H frame rules. 
 
 ### ↕️ Kinematics & Formatting
-Draw the kinematic diagram with proper labels and correct frame assignment.
-
+Draw the kinematic diagram with proper labels for the Spartan Robokit.
 |  Figure Title | Kinematic Diagram |
 |---------------|-------------------|
 |**`ARTICULATED 3-DOF`**|<p align="center"><img src="https://github.com/user-attachments/assets/27725006-862c-4820-9bd5-d9cb1904c8e4" width="55%" height="50%">|
@@ -107,11 +106,13 @@ Derive the Homogeneous Transformation matrices of the articulated manipulator.
 The following program files in MATLAB and Arduino are provided by our instructor. Utilizing both programs allowed the students to explore the theoretical and practical application of ROBOTICS. 
 
 **`MATLAB FILES`**
-
+  
 | TITLE/NAME | FILE LINK|
 |---------------|-------------------|
 |MATLAB Program| [ROBOT.m](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.m) |
 |ROBOTIC Figure| [ROBOT.fig](https://github.com/iversonfermo/GROUP-6-MIDTERMS/blob/main/MATLAB/ROBOT.fig) |
+
+</div>
 
 **`ARDUINO FILES`**
 
@@ -136,11 +137,26 @@ The following program files in MATLAB and Arduino are provided by our instructor
 **`Simulation Results`**
 | Test Case | Results |
 |-----------|---------|
-| Test Case 1 | <img src="https://github.com/user-attachments/assets/eca16da6-10e7-4a5b-88a3-3722f3ef6055" width="100%"> |
-| Test Case 2 | <img src="https://github.com/user-attachments/assets/9bf45ae7-f9a6-484a-b021-d449f148d095" width="100%"> |
-| Test Case 3 | <img src="https://github.com/user-attachments/assets/6d8483d3-6303-4666-bee5-50d6733c6078" width="100%"> |
-| Test Case 4 | <img src="https://github.com/user-attachments/assets/3292c476-c915-4912-a1e3-9319ba143d55" width="100%"> |
-| Test Case 5 | <img src="https://github.com/user-attachments/assets/1586b903-9da0-4fe2-98a0-60890a2eb65e" width="100%"> |
+| Test Case 1 | <img src="https://github.com/user-attachments/assets/d33ce21a-70b7-4a15-be46-b1151be04b7d" width="100%"> |
+| Test Case 2 | <img src="https://github.com/user-attachments/assets/515c5144-4dd0-4aa9-acaf-ff94033ffdfb" width="100%"> |
+| Test Case 3 | <img src="https://github.com/user-attachments/assets/3ba4a250-e987-4822-9a6c-241ca488e28f" width="100%"> |
+| Test Case 4 | <img src="https://github.com/user-attachments/assets/8c7f4487-3a8c-4fb8-9aeb-f2184a229927" width="100%"> |
+| Test Case 5 | <img src="https://github.com/user-attachments/assets/8799b66c-64cb-41eb-a86b-c16e0703e56e" width="100%"> |
+
+### 🤖 Program Interaction With The Mechanical Manipulator
+1. With the given MATLAB and Arduino Programs, the students are required to compare it side by side with the Mechanical Manipulator.
+2. Ensure that each program are synchronized to prevent incorrect readings and position error.
+3. Once the results are validated and identical, proceed to retreat the manipulator; Return it to its initial position.
+4. Apply this process for at leaast five (5) test points.
+
+**`Manipulator Results`**
+| Test Case | Results |
+|-----------|---------|
+| Test Case 1 | <img src="https://github.com/user-attachments/assets/d33ce21a-70b7-4a15-be46-b1151be04b7d" width="100%"> |
+| Test Case 2 | <img src="https://github.com/user-attachments/assets/515c5144-4dd0-4aa9-acaf-ff94033ffdfb" width="100%"> |
+| Test Case 3 | <img src="https://github.com/user-attachments/assets/3ba4a250-e987-4822-9a6c-241ca488e28f" width="100%"> |
+| Test Case 4 | <img src="https://github.com/user-attachments/assets/8c7f4487-3a8c-4fb8-9aeb-f2184a229927" width="100%"> |
+| Test Case 5 | <img src="https://github.com/user-attachments/assets/8799b66c-64cb-41eb-a86b-c16e0703e56e" width="100%"> |
 
 
 ---
