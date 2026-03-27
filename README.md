@@ -152,11 +152,11 @@ The following program files in MATLAB and Arduino are provided by our instructor
 **`Manipulator Results`**
 | Test Case | Results |
 |-----------|---------|
-| Test Case 1 | <p align="center"><a href="https://www.youtube.com/watch?v=RmhTxU9ItHI"><img src="https://img.youtube.com/vi/RmhTxU9ItHI/0.jpg" alt="Watch Video" width="800"></a></p> |
-| Test Case 2 | <p align="center"><a href="https://www.youtube.com/watch?v=l92WfvhURJA"><img src="https://img.youtube.com/vi/l92WfvhURJA/0.jpg" alt="Watch Video" width="800"></a></p> |
-| Test Case 3 | <p align="center"><a href="https://www.youtube.com/watch?v=BeicOAHtNlM"><img src="https://img.youtube.com/vi/BeicOAHtNlM/0.jpg" alt="Watch Video" width="800"></a></p> |
-| Test Case 4 | <p align="center"><a href="https://www.youtube.com/watch?v=NsjPUNzSOHg"><img src="https://img.youtube.com/vi/NsjPUNzSOHg/0.jpg" alt="Watch Video" width="800"></a></p> |
-| Test Case 5 | <p align="center"><a href="https://www.youtube.com/watch?v=_CkyncTATko"><img src="https://img.youtube.com/vi/_CkyncTATko/0.jpg" alt="Watch Video" width="800"></a></p> |
+| Test Case 1 | <p align="center"><a href="https://www.youtube.com/watch?v=RmhTxU9ItHI"><img src="https://img.youtube.com/vi/RmhTxU9ItHI/0.jpg" alt="Watch Video" width="1000"></a></p> |
+| Test Case 2 | <p align="center"><a href="https://www.youtube.com/watch?v=l92WfvhURJA"><img src="https://img.youtube.com/vi/l92WfvhURJA/0.jpg" alt="Watch Video" width="1000"></a></p> |
+| Test Case 3 | <p align="center"><a href="https://www.youtube.com/watch?v=BeicOAHtNlM"><img src="https://img.youtube.com/vi/BeicOAHtNlM/0.jpg" alt="Watch Video" width="1000"></a></p> |
+| Test Case 4 | <p align="center"><a href="https://www.youtube.com/watch?v=NsjPUNzSOHg"><img src="https://img.youtube.com/vi/NsjPUNzSOHg/0.jpg" alt="Watch Video" width="1000"></a></p> |
+| Test Case 5 | <p align="center"><a href="https://www.youtube.com/watch?v=_CkyncTATko"><img src="https://img.youtube.com/vi/_CkyncTATko/0.jpg" alt="Watch Video" width="1000"></a></p> |
 
 ---
 ### 📸 Documentation
