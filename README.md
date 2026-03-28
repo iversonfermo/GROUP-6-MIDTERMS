@@ -197,4 +197,8 @@ Program and execute a successful **pick-and-place task** relying exclusively on 
 ---
 ## 📝 Conclusion
 
-FERMO
+In conclusion, our group was able to complete the preliminary project by applying forward kinematics to an actual robotic system. We derived the needed equations, implemented the programs, and confirmed our results through testing the manipulator itself.
+
+During the process, we realized how important accuracy is in both calculations and the physical setup. We also learned that proper coordination between the software and hardware is necessary to achieve correct movement. The successful pick-and-place operation showed that our solution works as expected.
+
+Overall, this project helped us better understand how theory is applied in real robotics. It also improved our teamwork, problem-solving, and technical skills as a group.
